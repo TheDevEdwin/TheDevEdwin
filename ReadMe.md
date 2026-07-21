@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <b>English:</b> Fluent  |  <b>Portuguese:</b> Native  |  <b>Spanish:</b> Intermediary  |  <b> 🇫🇷 French:</b> Beginner
+    <b>English:</b> Fluent  |  <b>Portuguese:</b> Native  |  <b>Spanish:</b> Intermediary  |  <b>French:</b> Beginner
   </p>
 </div>
 
