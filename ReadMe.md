@@ -12,13 +12,17 @@
   <p>
     <b>17 Yrs</b>  |  <b>⚲ Luanda, Angola</b>
   </p>
+
+  <p>
+    <b>English:</b> Fluent  |  <b>Portuguese:</b> Native  |  <b>Spanish:</b> Intermediary  |  <b>French:</b> Beginner
+  </p>
 </div>
 
 ---
 
 ### ↳ The Roadmap
 
-` 01 ` **Software Engineering Foundation** ⟵ *Active*  
+` 01 ` **Software Engineering Foundation** ⟵ *I'm Here*  
 ` 02 ` Backend Engineering  
 ` 03 ` Data Engineering  
 ` 04 ` Oil & Gas Domain Knowledge  
