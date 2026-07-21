@@ -18,13 +18,13 @@
   </p>
 </div>
 
----
+<hr>
 
 <p align="center">
   <i>"If you're stuck on a problem, break it down. If you still can't move ahead? You didn't break it down hard enough."</i>
 </p>
 
----
+<hr>
 
 ### ↳ The Roadmap
 
