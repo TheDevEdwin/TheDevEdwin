@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="LinkedIn.png" width="150" style="border-radius: 24px; margin-bottom: 15px;">
+  <img src="LinkedIn.png" width="100%" style="max-width: 850px; border-radius: 12px; margin-bottom: 25px;" alt="Banner">
   
   <h1>Edwin Carlos Mateus Mulima</h1>
   
   <h3>Enterprise AI Engineer — Oil & Gas</h3>
   
   <p>
-    <i>An engineer who plans, designs, builds, tests, deploys, and maintains scalable AI systems and architectures that transform complex industrial data into real-time intelligence for operational decision-making.</i>
+    <i>An engineer who plans, designs, builds, tests, deploys, and maintains scalable AI systems and architectures<br>that transform complex industrial data into real-time intelligence for operational decision-making.</i>
   </p>
   
   <p>
@@ -18,16 +18,13 @@
 
 ### ↳ The Roadmap
 
-> **◉ Phase 1 — Software Engineering Foundation** *(Active)*
-
-<br>
-
-&nbsp;&nbsp;&nbsp; ▷ Phase 2 — Backend Engineering  
-&nbsp;&nbsp;&nbsp; ▷ Phase 3 — Data Engineering  
-&nbsp;&nbsp;&nbsp; ▷ Phase 4 — Oil & Gas Domain Knowledge  
-&nbsp;&nbsp;&nbsp; ▷ Phase 5 — AI Engineering  
-&nbsp;&nbsp;&nbsp; ▷ Phase 6 — LLM Engineering  
-&nbsp;&nbsp;&nbsp; ▷ Phase 7 — Enterprise AI Systems Engineering  
-&nbsp;&nbsp;&nbsp; ▷ Phase 8 — Enterprise Architecture & Infrastructure  
-&nbsp;&nbsp;&nbsp; ▷ Phase 9 — Leadership, Product & Business  
-&nbsp;&nbsp;&nbsp; ▷ Phase 10 — Career & Startup Execution
+` 01 ` **Software Engineering Foundation** ⟵ *Active*  
+` 02 ` Backend Engineering  
+` 03 ` Data Engineering  
+` 04 ` Oil & Gas Domain Knowledge  
+` 05 ` AI Engineering  
+` 06 ` LLM Engineering  
+` 07 ` Enterprise AI Systems Engineering  
+` 08 ` Enterprise Architecture & Infrastructure  
+` 09 ` Leadership, Product & Business  
+` 10 ` Career & Startup Execution
