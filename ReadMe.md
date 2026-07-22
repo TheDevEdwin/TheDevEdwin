@@ -10,7 +10,7 @@
   </p>
   
   <p>
-    <b>17 Yrs</b>  |  <b>⚲ Luanda, Angola</b>  |  <b>Harvard CS50P Student</b>
+    <b>17 Yrs</b>  |  <b>⚲ Luanda, Angola</b>  |  <b>Harvard CS50X Student</b>
   </p>
 
   <p>
