@@ -3,7 +3,7 @@
   
   <h1>Edwin Carlos Mateus Mulima</h1>
   
-  <h3>Enterprise AI Engineer — Oil & Gas</h3>
+  <h3>Junior Enterprise AI Engineer — Oil & Gas</h3>
   
   <p>
     <i>An engineer who plans, designs, builds, tests, deploys, and maintains scalable AI systems and architectures<br>that transform complex industrial data into real-time intelligence for operational decision-making.</i>
