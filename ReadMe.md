@@ -25,16 +25,3 @@
 </p>
 
 <hr>
-
-### ↳ The Roadmap
-
-` 01 ` **Software Engineering Foundation** ⟵ *I'm Here*  
-` 02 ` Backend Engineering  
-` 03 ` Data Engineering  
-` 04 ` Oil & Gas Domain Knowledge  
-` 05 ` AI Engineering  
-` 06 ` LLM Engineering  
-` 07 ` Enterprise AI Systems Engineering  
-` 08 ` Enterprise Architecture & Infrastructure  
-` 09 ` Leadership, Product & Business  
-` 10 ` Career & Startup Execution
