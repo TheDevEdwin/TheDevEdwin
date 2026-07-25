@@ -2,6 +2,8 @@
   <img src="LinkedInG.png" width="100%" style="max-width: 850px; border-radius: 12px; margin-bottom: 25px;" alt="Banner">
   
   <h1>Edwin Carlos Mateus Mulima</h1>
+
+  <hr>
   
   <h3>Founder & Chief Executive Officer Of Aurelian</h3>
   
