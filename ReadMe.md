@@ -3,7 +3,7 @@
   
   <h1>Edwin Carlos Mateus Mulima</h1>
   
-  <h3>Founder & Chief Executive Officer Of Aurelian</h3>
+  <h3>Founder & Chief Executive Officer @ Aurelian</h3>
   
   <p>
     <i>An engineer who plans, designs, builds, tests, deploys, and maintains scalable AI systems and architectures<br>that transform complex financial data into real-time intelligence for operational decision-making.</i>
