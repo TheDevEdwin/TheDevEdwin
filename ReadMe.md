@@ -3,7 +3,7 @@
   
   <h1>Edwin Carlos Mateus Mulima</h1>
   
-  <h3>Founder & Chief Executive Officer @ Meridian</h3>
+  <h3>Founder & Chief Executive Officer @ Rumo</h3>
   
   <p>
     <i>"The world does not reward potential. It rewards what you build with it."</i>
